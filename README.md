@@ -8,7 +8,7 @@ Our project aims to develop a smart wearable device that is not only affordable 
 ![output5](https://github.com/user-attachments/assets/602973ac-8788-43fa-a5c4-63f5779a3a5a)
 ![output6](https://github.com/user-attachments/assets/3070eef2-4e42-4a5a-9894-1dce13a13c05)
 ![output7](https://github.com/user-attachments/assets/b5b58b69-86ff-457c-9a58-c15f1f767bf6)
-![output8](https://github.com/user-attachments/assets/0ca03610-8598-4532-8728-1a880130b5c8)
+![output8](https://github.com/user-attachments/assets/8ba6459d-2186-442e-8ed1-368c0c115a58)
 ![output9](https://github.com/user-attachments/assets/5c85ccd0-5c50-4eaf-aeae-64d41cc1377e)
 ![output10](https://github.com/user-attachments/assets/ba70b978-2be4-46f8-b7a0-8bd9cb98b374)
 ![output11](https://github.com/user-attachments/assets/2b0c086a-bb1b-4f73-9856-20f3a22831d1)
