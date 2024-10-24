@@ -13,5 +13,4 @@ Our project aims to develop a smart wearable device that is not only affordable 
 ![output10](https://github.com/user-attachments/assets/2b0c086a-bb1b-4f73-9856-20f3a22831d1)
 ![output11](https://github.com/user-attachments/assets/5fd8a4fa-4e16-42c2-9b3d-c7888228a080)
 ![output12](https://github.com/user-attachments/assets/6c58f57e-1bfd-4646-bf5d-e9c20f68b064)
-![output13](https://github.com/user-attachments/assets/c7db1b79-4115-429f-89f7-25319f3cccfa)
-![output14](https://github.com/user-attachments/assets/b089d857-e72a-423f-8d98-dbb4e84d2a68)
+![output13](https://github.com/user-attachments/assets/b089d857-e72a-423f-8d98-dbb4e84d2a68)
